@@ -1,9 +1,6 @@
-# marketo-rest-api
-Node.js Implementation of the Marketo REST API Service 
-http://developers.marketo.com/documentation/rest/
-
+# Marketo REST API module for node.js
 The goal of this project is to fully implement the Marketo REST API in node.js using node-rest-client to build a
-REST API npm module.
+REST API npm module. http://developers.marketo.com/documentation/rest/
 
 Currently this is under active development and is not ready for prime time. If you like what you see let me know if you want to contribute, test or help. This is only about 10% complete at this time.
 
